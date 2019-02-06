@@ -4,8 +4,15 @@
 # @author xleeuwx <info@xleeuwx.nl>
 ###
 
+## Gta executeble
 $gtaPath="C:\Games\GTA\PlayGTAV.exe"
+
+## Installation directory and execution directory
 $workdir="C:\tmp"
+
+###
+### DO NOT EDIT BELOW THIS LINE
+###
 
 # suspend gta and sleep and reactivate gta
 function soloSession() {
