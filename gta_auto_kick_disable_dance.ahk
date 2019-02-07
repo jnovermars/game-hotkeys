@@ -11,7 +11,12 @@ While (A_TickCount - start <=  (4 * 60 * 60 * 1000)) {
 	Sleep 150
 	Send {S up}
 	Sleep 150
-
+	Send, {Enter}
+	Sleep 10
+	Send, {Enter}
+	Sleep 10
+	Send, {Enter}
+	Sleep 10
 }
-F12:: Pause,Toggle
-Pause:: Pause,Toggle
+
+F10:: Pause,Toggle
