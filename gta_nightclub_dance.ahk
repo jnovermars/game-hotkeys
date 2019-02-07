@@ -42,5 +42,5 @@ While (A_TickCount - start <=  (2 * 60 * 60 * 1000)) {
         Sleep 1662+rand1
    
 }
-F12:: Pause,Toggle
+
 Pause:: Pause,Toggle
