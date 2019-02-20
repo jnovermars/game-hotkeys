@@ -1,5 +1,5 @@
-# gta-hotkeys
-gta hotkeys to make things easy
+# Hotkeys
+Hotkeys to make things easy
 
 
 ## Requirements
