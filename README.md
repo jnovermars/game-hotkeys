@@ -85,5 +85,5 @@ xleeuwx – [github](https://github.com/xleeuwx/)
 1. Create a new Pull Request to the master branch
 
 ## Todo's
-1. Change suspend in `gta.ps1` to powershell script [script](https://www.powershellgallery.com/packages/PoshInternals/1.0/Content/Suspend.ps1)
+1. Change suspend in `gta.ps1` to powershell script to use this [suspend script](https://www.powershellgallery.com/packages/PoshInternals/1.0/Content/Suspend.ps1)
 1. Add new script to make it possible to add windows firewall rule to create public solo session.
