@@ -47,7 +47,7 @@ when you are in first person view you can press `Pause Break` button hitting the
 
 
 **Dance in the nightclub**  
-Dubble click the file 'gta_auto_kick_disable_dance.ahk'
+Dubble click the file 'gta_nightclub_dance.ahk'
 ingame you can go into first person view by clicking the button `v` multiple times
 when you are in first person view you can press `Pause Break` button hitting the `Pause Break` wil stop the script
 
