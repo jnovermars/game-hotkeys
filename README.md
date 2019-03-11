@@ -45,13 +45,15 @@ $gtaPath="C:\Games\GTA\PlayGTAV.exe"
 **Prevent auto kick by GTA**  
 Dubble click the file `gta_auto_kick_disable_dance.ahk`    
 ingame you can go into first person view by clicking the button `v` multiple times    
-when you are in first person view you can press `Pause Break` button hitting the `Pause Break` wil stop the script  
+when you are in first person view you can press `Pause Break` button.   
+hitting the `Pause Break` button again wil stop the script.  
   
   
 **Dance in the nightclub**  
 Dubble click the file `gta_nightclub_dance.ahk`    
 ingame you can go into first person view by clicking the button `v` multiple times      
-when you are in first person view you can press `Pause Break` button hitting the `Pause Break` wil stop the script  
+when you are in first person view you can press `Pause Break` button.   
+hitting the `Pause Break` button again wil stop the script.  
   
   
 **Disconnect GTA Online and restart the game**   
