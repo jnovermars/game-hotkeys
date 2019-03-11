@@ -40,24 +40,24 @@ $gtaPath="C:\Games\GTA\PlayGTAV.exe"
 
 ## Usage example
 
-**Prevent auto kick by GTA**
+**Prevent auto kick by GTA**  
 Dubble click the file 'gta_auto_kick_disable_dance.ahk'
 ingame you can go into first person view by clicking the button `v` multiple times
 when you are in first person view you can press `Pause Break` button hitting the `Pause Break` wil stop the script
 
 
-**Dance in the nightclub**
+**Dance in the nightclub**  
 Dubble click the file 'gta_auto_kick_disable_dance.ahk'
 ingame you can go into first person view by clicking the button `v` multiple times
 when you are in first person view you can press `Pause Break` button hitting the `Pause Break` wil stop the script
 
 
-**Disconnect GTA Online and restart the game**
+**Disconnect GTA Online and restart the game**   
 when playing you can press (you can change the bindings in `gta_hotkeys.ahk`)
 `alt + F11` to enter a SoloSession.
 
 
-**Suspend the game and make a public solo session**
+**Suspend the game and make a public solo session**  
 `alt + F12` to stop GTA and restart it.
 
 ## Optional Changing the key bindings of the commands:
