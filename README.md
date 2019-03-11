@@ -53,10 +53,12 @@ when you are in first person view you can press `Pause Break` button hitting the
 
 
 **Disconnect GTA Online and restart the game**   
+Dubble click the file 'gta_hotkeys.ahk'  
 when playing you can press `alt + F11` to enter a SoloSession.
 
 
 **Suspend the game and make a public solo session**  
+Dubble click the file 'gta_hotkeys.ahk'  
 when playing you can press `alt + F12` to stop GTA and restart it.
 
 ## Optional Changing the key bindings of the commands:
